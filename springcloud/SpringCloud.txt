@@ -1,0 +1,5 @@
+1.Spring Cloud 与 Dubbo的区别
+   -- 调用方式：Spring Cloud 是通过http REST API调用，而Dubbo是通过RPC远程调用。
+2.eureka与zookeeper的区别
+   -- eureka遵守AP(可用性/分区容错性)原则
+   -- zookeeper遵守CP(一致性/分区容错性)原则
